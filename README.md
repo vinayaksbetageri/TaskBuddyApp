@@ -4,8 +4,9 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![LocalStorage](https://img.shields.io/badge/Storage-LocalStorage-FFA500?style=for-the-badge)
 
-![TaskBuddy Screenshot](![image](https://github.com/user-attachments/assets/1aea490a-239f-4ec5-bc0f-3593176ca7c0)
-)
+![TaskBuddy Screenshot]
+![image](https://github.com/user-attachments/assets/0f927d57-3cc6-4868-8f21-2d7671515211)
+
 
 A priority-based task manager with completion tracking and smart categorization.
 
